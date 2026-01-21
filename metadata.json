@@ -1,0 +1,5 @@
+{
+  "name": "Whack-A-Mole Kiosk",
+  "description": "A high-energy, touch-optimized Whack-a-Mole style game designed for large format touch displays. Features 30-second rounds, increasing difficulty, and sound effects.",
+  "requestFramePermissions": []
+}
